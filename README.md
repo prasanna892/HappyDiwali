@@ -1,4 +1,4 @@
-# HappyDiwali
+# Happy Diwali to all
 
 #### A simple Program to display firework rocket and happy Diwali.
 
