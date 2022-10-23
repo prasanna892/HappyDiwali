@@ -4,7 +4,7 @@
 
 ## Output
 
-<img src="https://github.com/prasanna892/PyQt5-sample-wav-player-with-bar-spectrum/blob/main/image.jpeg" />
+<img src="https://github.com/prasanna892/HappyDiwali/blob/main/gif.gif" />
 
 ## Contact 
 
