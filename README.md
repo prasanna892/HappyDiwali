@@ -6,6 +6,10 @@
 
 <img src="https://github.com/prasanna892/HappyDiwali/blob/main/gif.gif" />
 
+## Requirement
+
+python3
+
 ## Contact 
 
 Mail address : k.prasannagh@gmail.com
